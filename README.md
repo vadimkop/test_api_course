@@ -1,1 +1,1 @@
-# test_api_course
+API tests (Python/Pytest/Requests) + Allure + Logger
